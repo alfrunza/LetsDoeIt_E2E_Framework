@@ -1,0 +1,24 @@
+{
+  "name": "vscode-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "geckodriver": "^3.0.1",
+    "selenium-webdriver": "^4.1.1",
+    "chromedriver": "102.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.2",
+    "jest": "^27.5.1"
+  }
+}
